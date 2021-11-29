@@ -3,7 +3,7 @@ This is a template project for QT Creator.
 <br>
 I created this project for those who want to work with the QT framework in VS Code/Visual Studio.
 <br>
-The main feature of this project is that it makes the code source generate by QT more more esily to mantain. I also rewrote the CMakeLists.txt to be more easy to add external libraries in the future.
+The main feature of this project is that it makes the code source generate by QT more esily to mantain. I also rewrote the CMakeLists.txt to be more easy to add external libraries in the future.
 
 # Programs and libraries hosted in this solution
 - [Visual Studio Community](https://www.visualstudio.com/) v2022
